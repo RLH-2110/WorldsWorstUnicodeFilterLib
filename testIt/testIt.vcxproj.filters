@@ -15,15 +15,12 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="filter.c">
-      <Filter>Quelldateien</Filter>
-    </ClCompile>
-    <ClCompile Include="data.c">
+    <ClCompile Include="test.c">
       <Filter>Quelldateien</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="filter.h">
+    <ClInclude Include="workaround.h">
       <Filter>Headerdateien</Filter>
     </ClInclude>
   </ItemGroup>
