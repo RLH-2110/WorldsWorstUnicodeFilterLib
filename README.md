@@ -1,8 +1,15 @@
-You want to filter out some Unicode characters (saved as an int) from your random Unicode generator, but you want to filter out unassigned Unicodes?  
-Then this is a horrible solution for your problem!  
+# The World's Worst Unicode Filter Library
 
+This is a simple C library to filter out unwanted Unicode characters.
+
+# Compilation
+
+I might add a Makefile somewhere in the future or document how to compile it on Linux.  
+Until then, there are precompiled binaries.  
 
 # Please use an official library instead of this mess.  
+
+This was more for fun, and it likely is not good for actually projects, I encourage you to find a better alternative.  
 
 Q: Does it filter everything correctly?  
 A: I'm 2% sure that it does.
