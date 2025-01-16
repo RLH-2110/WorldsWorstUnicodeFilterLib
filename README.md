@@ -2,6 +2,9 @@
 
 This is a simple C library to filter out unwanted Unicode characters.
 
+> [!NOTE]  
+> This project is old and archived, and I will not work on it any more.
+
 # Compilation
 
 I might add a Makefile somewhere in the future or document how to compile it on Linux.  
